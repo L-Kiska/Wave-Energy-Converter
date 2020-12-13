@@ -2,7 +2,7 @@
 
 Recommended to view files in the following order:
 
-Project Abstract.docx - Brief overview of project
+Project Abstract.docx - Brief overview of project\n
 Project Infographic.docx - Visual overview of project
 Prototype Reference Assembly.zip - CREO assembly of main components
 Hydraulic Schematic.pdf - Overview of hydraulic system
