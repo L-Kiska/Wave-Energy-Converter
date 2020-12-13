@@ -1,5 +1,7 @@
 # Microflo-Wave-Energy-Converter
 
+This is a unique wave energy converter design for use in remote coastal communities. All work done under supervision of UTDesign at The University of Texas at Dallas.
+
 Recommended to view files in the following order:
 
 Project Abstract.docx - Brief overview of project
